@@ -2,6 +2,9 @@
 ## 红杏云机场轻量套餐怎么样？
 
 [![红杏云机场轻量套餐](https://raw.githubusercontent.com/youzhijichang/hongxingyun1/refs/heads/main/hongx.jpg.png)](https://hongxing.one/web/#/login?code=vGVhcYgf)
+---
+（上图进入官网）
+---
 红杏云轻量套餐售价 **20 元/月**，提供 **200GB 月流量**、**300Mbps 带宽** 以及 **IEPL 专线传输**，属于目前同价位机场中配置较高的一档。
 
 ### 套餐配置
